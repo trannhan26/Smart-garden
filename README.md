@@ -1,4 +1,4 @@
-#Đồ án đa ngành HCMUT HK232
+
 # How to run this code
 
 0. Please check requirements.txt to check the version to update 
